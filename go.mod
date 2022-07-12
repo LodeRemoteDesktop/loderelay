@@ -1,9 +1,9 @@
-module github.com/jess4tech/remote-desktop
+module github.com/jess4tech/loderelay
 
 go 1.18
 
 require (
-	github.com/godbus/dbus/v5 v5.1.0 // indirect
+	github.com/godbus/dbus/v5 v5.1.0
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/pion/datachannel v1.5.2 // indirect
 	github.com/pion/dtls/v2 v2.1.5 // indirect
@@ -21,7 +21,7 @@ require (
 	github.com/pion/transport v0.13.1 // indirect
 	github.com/pion/turn/v2 v2.0.8 // indirect
 	github.com/pion/udp v0.1.1 // indirect
-	github.com/pion/webrtc/v3 v3.1.42 // indirect
+	github.com/pion/webrtc/v3 v3.1.42
 	golang.org/x/crypto v0.0.0-20220516162934-403b01795ae8 // indirect
 	golang.org/x/net v0.0.0-20220531201128-c960675eff93 // indirect
 	golang.org/x/sys v0.0.0-20220608164250-635b8c9b7f68 // indirect
